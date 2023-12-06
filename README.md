@@ -2,6 +2,7 @@
 
 ![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=Eric-Coutinho&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwslg7xullauhrtwjl7xiort6u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vwslg7xullauhrtwjl7xiort6u&redirect=true)
-
+<div align="center">
+      <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=31vwslg7xullauhrtwjl7xiort6u&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true"uid=31vwslg7xullauhrtwjl7xiort6u&redirect=true">
+</div>
 
