@@ -11,6 +11,6 @@
 </div>
 <br>
 <div align="center">
-      <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=31vwslg7xullauhrtwjl7xiort6u&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true"uid=31vwslg7xullauhrtwjl7xiort6u&redirect=true">
+      <img id="example-view" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vwslg7xullauhrtwjl7xiort6u&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true"uid=31vwslg7xullauhrtwjl7xiort6u&redirect=true">
 </div>
 
